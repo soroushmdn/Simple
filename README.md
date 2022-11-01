@@ -1,4 +1,6 @@
-# Simple
-- Simple responsive hero section design with html , css &amp; js
+# Simple Hero Section Design with Responsive Navbar Using Html Css Javascript
+- Developed first for Desktop then for Mobile devices.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- With a beautiful minimalist interface.
 
-![hero section](https://user-images.githubusercontent.com/95019708/187018845-54a1a740-330e-4405-929a-e8e28df53a71.png)
+
